@@ -1,0 +1,2 @@
+# Fordle
+FOSS Wordle Alternative
